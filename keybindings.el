@@ -5,5 +5,5 @@
 (spacemacs/set-leader-keys
  "a C l" 'cheat-sh
  "a C r" 'cheat-sh-region
- "a C s" 'cheat-sh-search
+ "a C s" 'cheat-sh-search-topic
  )
